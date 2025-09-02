@@ -1,0 +1,25 @@
+# Binaries
+/go-restapi
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go coverage tool
+*.out
+
+# Env files (credentials)
+.env
+
+# Uploaded files
+uploads/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
