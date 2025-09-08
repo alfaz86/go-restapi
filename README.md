@@ -24,7 +24,7 @@ Beberapa kelebihan Gin:
 ### Cara Clone & Install
 ```bash
 # Clone repository
-git clone https://github.com/alfaz86/go-restapi.git
+git clone https://github.com/mhdalfaz/go-restapi.git
 cd go-restapi
 
 # Install dependency
